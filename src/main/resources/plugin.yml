@@ -1,0 +1,19 @@
+name: Template
+version: ${version}
+main: dev.kugge.template.Template
+api-version: 1.20
+folia-supported: true
+author: kugge
+website: kugge.dev
+description: Simple template plugin
+commands:
+  template:
+    description: Template plugin command.
+    default: op
+permissions:
+  template.reload:
+    description: Allows /template reload
+    default: op
+  template.version:
+    description: Allows /template version
+    default: op

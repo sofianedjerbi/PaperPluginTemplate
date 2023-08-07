@@ -1,7 +1,7 @@
 # Template
 
 An awesome plugin.
-![demo](./demo.png)
+<!--![demo](./demo.png)-->
 
 # Commands
 
